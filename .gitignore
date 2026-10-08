@@ -1,0 +1,9 @@
+# MSVC build artifacts
+*.obj
+*.pdb
+*.ilk
+*.exe
+output/
+
+# Video data (supplied with the assignment, large and not redistributable)
+*.avi
